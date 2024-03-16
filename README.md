@@ -54,7 +54,7 @@
 - 使用源码（lede原厂分区）：https://github.com/coolsnowwolf/lede (5.10)
 - 使用源码（lede合并分区）：https://github.com/coolsnowwolf/lede (5.10)
 - 使用源码（immortalwrt合并分区）：https://github.com/immortalwrt/immortalwrt (5.15)
-- 默认IP：192.168.123.1
+- 默认IP：192.168.3.1
 - 用户名：root
 - 密码：password
 <details>

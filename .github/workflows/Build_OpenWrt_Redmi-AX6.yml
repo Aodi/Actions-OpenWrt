@@ -193,7 +193,7 @@ jobs:
         token: ${{ secrets.RELEASES_TOKEN }}
         body: |
          #### Redmi-AX6(原厂分区) lede-Openwrt 固件配置：
-            - IP:192.168.123.1
+            - IP:192.168.3.1
             - WEB登陆账户：root
             - 密码：password
             - 固件源码：https://github.com/coolsnowwolf/lede
